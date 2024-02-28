@@ -4,7 +4,7 @@
 
 Throughout these Incident Response Labs, I have performed a number of exercises which span across a few fictitious companies. The idea behind this was to gain multiple skills and understand proceedures necessary when dealing with security events in organisations.
 
-I have kept a log of a number of incidents that I responded to in my <a href=""> incident handlers journal</a>.
+I have kept a log of a number of incidents that I responded to in my <a href="https://github.com/JustA-Byte/Incident-Response-Labs/blob/main/Incident%20Handlers%20Journal.md"> incident handlers journal</a>.
 
 ### Skills Learned
 
