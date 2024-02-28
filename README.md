@@ -23,4 +23,4 @@ I have kept a log of a number of incidents that I responded to in my <a href="ht
 
 ### Exercises
 - <a href="https://github.com/JustA-Byte/Incident-Response-Labs/blob/main/YummyRecipes%20Bruteforce%20Security%20Incident%20Report.md"> YummyRecipes Bruteforce Security Incident Report </a>
-- <a href="https://github.com/JustA-Byte/Risk-Lab/blob/main/Threat%20Modeling%20Using%20the%20PASTA%20Framework.md"> Threat Modeling Using the PASTA Framework </a>
+- <a href="https://github.com/JustA-Byte/Incident-Response-Labs/blob/main/Media%20Co.%20DDoS%20Attack%20Analysis.md"> Media Co. DDoS Attack Analysis </a>
