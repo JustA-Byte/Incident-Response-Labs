@@ -12,6 +12,7 @@ I have kept a log of a number of incidents that I responded to in my <a href="ht
 - Report write ups
 - Incident response lifecycle
 - Incident investigation
+- Sandboxing
 
 ### Tools Used
 
@@ -20,7 +21,10 @@ I have kept a log of a number of incidents that I responded to in my <a href="ht
 - Playbooks
 - Pyramid of pain
 - Google Chronicle SIEM
+- Virtualisation
 
 ### Exercises
 - <a href="https://github.com/JustA-Byte/Incident-Response-Labs/blob/main/YummyRecipes%20Bruteforce%20Security%20Incident%20Report.md"> YummyRecipes Bruteforce Security Incident Report </a>
 - <a href="https://github.com/JustA-Byte/Incident-Response-Labs/blob/main/Media%20Co.%20DDoS%20Attack%20Analysis.md"> Media Co. DDoS Attack Analysis </a>
+- <a href="https://github.com/JustA-Byte/Incident-Response-Labs/blob/main/Parking%20Lot%20USB%20Exercise.md"> Parking Lot USB Exercise </a>
+
