@@ -22,5 +22,5 @@ I have kept a log of a number of incidents that I responded to in my <a href="ht
 - Google Chronicle SIEM
 
 ### Exercises
-- <a href="https://github.com/JustA-Byte/Risk-Lab/blob/main/Vulnerability%20Assessment%20and%20Mitigation%20for%20an%20Exposed%20E-Commerce%20Database.md"> Vulnerability Assessment and Mitigation for an Exposed E-Commerce Database </a>
+- <a href="https://github.com/JustA-Byte/Incident-Response-Labs/blob/main/YummyRecipes%20Bruteforce%20Security%20Incident%20Report.md"> YummyRecipes Bruteforce Security Incident Report </a>
 - <a href="https://github.com/JustA-Byte/Risk-Lab/blob/main/Threat%20Modeling%20Using%20the%20PASTA%20Framework.md"> Threat Modeling Using the PASTA Framework </a>
