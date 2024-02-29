@@ -1,5 +1,5 @@
 ## Introduction
-I have used the <a href="">Phishing Incident Response Playbook </a> to address the following Phishing email alert.
+I have used the <a href="https://github.com/JustA-Byte/Incident-Response-Labs/blob/main/Phishing%20Incident%20Response%20Playbook.md">Phishing Incident Response Playbook </a> to address the following Phishing email alert.
 
 | Ticket ID | Alert Message | Severity | Details | Ticket Status|
 |-----------|--------------|-----------|---------|--------------|
