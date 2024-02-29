@@ -1,3 +1,6 @@
+## Introduction
+I have used the <a href="">Phishing Incident Response Playbook </a> to address the following Phishing email alert.
+
 | Ticket ID | Alert Message | Severity | Details | Ticket Status|
 |-----------|--------------|-----------|---------|--------------|
 | A-2703    | SERVER-MAIL Phishing attempt possible download of malware| Medium | The user may have opened a malicious email and opened attachments or clicked links. | Escalated|
