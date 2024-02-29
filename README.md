@@ -18,6 +18,7 @@ I have kept a log of a number of incidents that I responded to in my <a href="ht
 ### Tools Used
 
 - Wireshark
+- tcpdump
 - Virus total
 - Playbooks
 - Pyramid of pain
