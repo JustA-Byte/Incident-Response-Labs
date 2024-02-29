@@ -28,4 +28,4 @@ I have kept a log of a number of incidents that I responded to in my <a href="ht
 - <a href="https://github.com/JustA-Byte/Incident-Response-Labs/blob/main/YummyRecipes%20Bruteforce%20Security%20Incident%20Report.md"> YummyRecipes Bruteforce Security Incident Report </a>
 - <a href="https://github.com/JustA-Byte/Incident-Response-Labs/blob/main/Media%20Co.%20DDoS%20Attack%20Analysis.md"> Media Co. DDoS Attack Analysis </a>
 - <a href="https://github.com/JustA-Byte/Incident-Response-Labs/blob/main/Parking%20Lot%20USB%20Exercise.md"> Parking Lot USB Exercise </a>
-- <a href=""> Using Playbooks to Respond to a Phishing Alert </a>
+- <a href="https://github.com/JustA-Byte/Incident-Response-Labs/blob/main/Phishing%20Alert%20Ticket%20Analysis.md"> Using Playbooks to Respond to a Phishing Alert </a>
